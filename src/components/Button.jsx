@@ -1,4 +1,4 @@
-function Button({ text, disabled }) {
+function Button( { text, disabled } ) {
     return (
         <button
         type="button"
